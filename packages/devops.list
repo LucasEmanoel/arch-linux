@@ -1,0 +1,7 @@
+virtualbox 
+docker 
+minikube 
+libvirt 
+qemu-desktop 
+dnsmasq 
+iptables-nft
