@@ -1,8 +1,10 @@
-curl 
-wget 
-git 
+curl
+wget
+git
 go
-base-devel 
-unzip 
-zip 
+base-devel
+unzip
+zip
 which
+zsh
+firefox
